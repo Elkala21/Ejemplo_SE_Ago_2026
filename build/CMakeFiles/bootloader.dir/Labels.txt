@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Users/Elian/Documents/SoftEmbe/project_GIT/build/CMakeFiles/bootloader
+C:/Users/Elian/Documents/SoftEmbe/project_GIT/build/CMakeFiles/bootloader.rule
+C:/Users/Elian/Documents/SoftEmbe/project_GIT/build/CMakeFiles/bootloader-complete.rule
+C:/Users/Elian/Documents/SoftEmbe/project_GIT/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Users/Elian/Documents/SoftEmbe/project_GIT/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Users/Elian/Documents/SoftEmbe/project_GIT/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Users/Elian/Documents/SoftEmbe/project_GIT/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Users/Elian/Documents/SoftEmbe/project_GIT/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Users/Elian/Documents/SoftEmbe/project_GIT/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Users/Elian/Documents/SoftEmbe/project_GIT/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
