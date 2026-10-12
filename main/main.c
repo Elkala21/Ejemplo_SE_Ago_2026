@@ -6,6 +6,7 @@ void app_main(void)
 {
     while (true) {
         printf("Hello from app_main!\n");
+		printf("cambio de feature!\n");
         sleep(1);
     }
 }
